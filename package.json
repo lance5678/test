@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lance5678/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "lance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lance5678/test/issues"
+  },
+  "homepage": "https://github.com/lance5678/test#readme"
+}
